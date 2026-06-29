@@ -1,4 +1,3 @@
 Collaboration Demo Project
 Version 1.0
-
-Feature: This project demonstrates issues, pull requests, code review, and CI checks.
+Feature: This project demonstrates team collaboration workflows using issues, pull requests, code review, and CI checks.
