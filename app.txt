@@ -1,3 +1,5 @@
 Collaboration Demo Project
-Version 1.1 - conflict resolved
+Version 1.0
 Feature: This project demonstrates team collaboration workflows using issues, pull requests, code review, and CI checks.
+in pr kiri ro merge kon
+
